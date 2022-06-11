@@ -9,7 +9,7 @@ const config = {
   title: 'Adofai.gg Guide',
   tagline: 'Adofai.gg 개발자를 위한 가이드라인(아님)',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  baseUrl: '/adofai-gg-guide/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
