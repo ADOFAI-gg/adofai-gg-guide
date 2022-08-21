@@ -1,5 +1,6 @@
 ---
 description: Svelte 컴포넌트를 정의하고 사용하는 방법에 대해 설명합니다
+sidebar-position: 20
 ---
 
 # 컴포넌트

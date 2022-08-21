@@ -1,3 +1,8 @@
+---
+description: 컴포넌트에서 데이터를 받는 방법을 설명합니다.
+sidebar-position: 40
+---
+
 # Props
 
 [컴포넌트](components) 설명을 읽어보셨다면 `Item` 컴포넌트가 `number` 이라는 값을 받는 것을 보셨을 겁니다.  
